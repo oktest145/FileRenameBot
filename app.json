@@ -18,23 +18,23 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "1893758959:AAEDMrS-688uPh0DKTq0TUe8hi9jZbyYzfg"
     },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @).. Also Make The Bot Admin In That Channel!! ",
-      "value": ""
+      "value": "Ironman_Cloud"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "3900425"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "1affe5d43671e10d86514330afe05028"
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": ""
+      "value": "1371803729"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
