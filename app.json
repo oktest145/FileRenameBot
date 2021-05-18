@@ -18,7 +18,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "1893758959:AAEDMrS-688uPh0DKTq0TUe8hi9jZbyYzfg"
+      "value": "1807996117:AAEo1KL_fG5fSfIwdV57PMeJMZV4aMjxvdU"
     },
     "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel USERNAME (without @).. Also Make The Bot Admin In That Channel!! ",
